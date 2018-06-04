@@ -1,0 +1,6 @@
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\bin\Debug\ClienteBanco.exe.config
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\bin\Debug\ClienteBanco.exe
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\bin\Debug\ClienteBanco.pdb
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\obj\Debug\ClienteBanco.csprojResolveAssemblyReference.cache
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\obj\Debug\ClienteBanco.exe
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\ClienteBanco\obj\Debug\ClienteBanco.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="97e30cec-f0df-4f65-b66d-f573446e4776" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54805/BancoServicio.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BancoServicio.xsd" MetadataType="Schema" ID="74c950a6-2e59-4875-9840-d4532d79101a" SourceId="1" SourceUrl="http://localhost:54805/BancoServicio.svc?xsd=xsd0" />
+    <MetadataFile FileName="BancoServicio1.xsd" MetadataType="Schema" ID="885d2862-665a-44a3-97f9-f05e81d28d2b" SourceId="1" SourceUrl="http://localhost:54805/BancoServicio.svc?xsd=xsd1" />
+    <MetadataFile FileName="BancoServicio2.xsd" MetadataType="Schema" ID="9fa56c6e-a95a-4da0-a6f4-c16e7d0e5b47" SourceId="1" SourceUrl="http://localhost:54805/BancoServicio.svc?xsd=xsd2" />
+    <MetadataFile FileName="BancoServicio.disco" MetadataType="Disco" ID="7d19edd4-df84-430f-a6e1-496f803a7a84" SourceId="1" SourceUrl="http://localhost:54805/BancoServicio.svc?disco" />
+    <MetadataFile FileName="BancoServicio.wsdl" MetadataType="Wsdl" ID="c6ed278a-f6b5-4916-8fc8-1ecba124d9cb" SourceId="1" SourceUrl="http://localhost:54805/BancoServicio.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

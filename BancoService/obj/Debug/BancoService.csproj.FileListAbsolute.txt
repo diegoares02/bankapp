@@ -1,0 +1,6 @@
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\bin\BancoService.dll.config
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\bin\BancoService.dll
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\bin\BancoService.pdb
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\obj\Debug\BancoService.dll
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\obj\Debug\BancoService.pdb
+C:\Users\DIEGO-PC\documents\visual studio 2017\Projects\Banco-App\BancoService\obj\Debug\BancoService.csprojResolveAssemblyReference.cache
